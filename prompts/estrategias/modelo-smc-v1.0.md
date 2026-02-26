@@ -54,3 +54,6 @@ RR planificado:
 Resultado:
 Error de ejecución (sí/no):
 Comentario breve:
+### Día sin operación
+Fecha:
+Motivo: No hubo confirmación válida según reglas v1.0.
