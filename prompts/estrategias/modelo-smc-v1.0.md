@@ -57,3 +57,5 @@ Comentario breve:
 ### Día sin operación
 Fecha:
 Motivo: No hubo confirmación válida según reglas v1.0.
+Máximo trades por día: 2
+No se permite tercer trade bajo ninguna circunstancia.
