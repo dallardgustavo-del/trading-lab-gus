@@ -21,3 +21,14 @@ Máximo trades por sesión:
 ## Resultados esperados
 Winrate estimado:
 Drawdown tolerable:
+---
+
+## Registro de Test
+
+Periodo evaluado:
+Cantidad de trades:
+Winrate:
+RR promedio:
+Drawdown máximo:
+Errores de ejecución:
+Notas psicológicas:
