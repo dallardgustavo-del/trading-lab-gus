@@ -32,3 +32,12 @@ RR promedio:
 Drawdown máximo:
 Errores de ejecución:
 Notas psicológicas:
+Periodo evaluado: 26/02/2026 - 12/03/2026
+Tipo de validación: Baseline sin modificaciones
+
+Cantidad de trades:
+Winrate:
+RR promedio:
+Drawdown máximo:
+Errores de ejecución:
+Notas psicológicas:
