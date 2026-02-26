@@ -1,5 +1,7 @@
 # Modelo SMC v1.0
-
+Indicadores:
+No se utilizan indicadores en la versión v1.0.
+Modelo basado únicamente en estructura de precio.
 ## Hipótesis
 El modelo funciona cuando 15M manda, 5M confirma, 1M ejecuta.
 
@@ -61,3 +63,6 @@ Máximo trades por día: 2
 No se permite tercer trade bajo ninguna circunstancia.
 Si ocurre error de ejecución, no se habilita trade adicional.
 El límite de 2 trades diarios es absoluto.
+Confirmación 5M:
+Solo se considera CHoCH válido con cierre estructural.
+No se aceptan quiebres solo con mecha.
