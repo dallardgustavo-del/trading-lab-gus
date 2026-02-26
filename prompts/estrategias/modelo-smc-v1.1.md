@@ -12,3 +12,13 @@ Confirmación obligatoria en 5M antes de cualquier ejecución en 1M.
 
 ## Hipótesis
 Reducir entradas impulsivas y mejorar estabilidad emocional.
+---
+
+## Registro de Test
+
+Periodo evaluado:
+Cantidad de trades:
+Winrate:
+RR promedio:
+Drawdown máximo:
+Observaciones emocionales:
