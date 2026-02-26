@@ -41,3 +41,16 @@ RR promedio:
 Drawdown máximo:
 Errores de ejecución:
 Notas psicológicas:
+---
+
+## Diario de Operaciones
+
+### Trade 1
+Fecha:
+Activo:
+Sesión:
+Setup válido según reglas (sí/no):
+RR planificado:
+Resultado:
+Error de ejecución (sí/no):
+Comentario breve:
