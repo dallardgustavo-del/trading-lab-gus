@@ -13,3 +13,11 @@
 Riesgo fijo por operación:
 RR mínimo:
 Error más frecuente:
+---
+
+## Versión 1.0
+Fecha:
+Condiciones de mercado:
+Resultado general:
+Errores detectados:
+Ajustes propuestos:
