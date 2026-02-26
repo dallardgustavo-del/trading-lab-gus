@@ -59,3 +59,5 @@ Fecha:
 Motivo: No hubo confirmación válida según reglas v1.0.
 Máximo trades por día: 2
 No se permite tercer trade bajo ninguna circunstancia.
+Si ocurre error de ejecución, no se habilita trade adicional.
+El límite de 2 trades diarios es absoluto.
